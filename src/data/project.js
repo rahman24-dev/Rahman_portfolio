@@ -45,5 +45,14 @@ export const projectData = [
         image: "/Visitor-pass-management.png",
         liveLink: "https://visitor-pass-five.vercel.app/",
         githubLink: "https://github.com/rahman24-dev/visitor-pass-backend"
+    },
+    {
+        id: 6,
+        title: "Portfolio for IT Solution",
+        description: "Developed a responsive, SEO-optimized corporate portfolio for an IT solutions company using Next.js. Engineered a fast, sleek UI to effectively showcase their technical services.",
+        techStack: ["Next.js", "React.js","Tailwind Css"],
+        image: "/LogicLoop.png",
+        liveLink: "https://logic-loop-liart.vercel.app/",
+        githubLink: "https://github.com/rahman24-dev/visitor-pass-backend"
     }
 ]

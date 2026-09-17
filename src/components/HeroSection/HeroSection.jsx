@@ -34,7 +34,7 @@ export default function HeroSection() {
             Get In Touch
           </a>
           <a
-            href="/Rahman.resume.pdf"
+            href="/Abdur_Rahman_resume"
             download="Rahman_Resume.pdf"
             className={styles.resumeBtn}
           >
